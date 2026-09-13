@@ -92,11 +92,6 @@ el que la clave de licencia se envía a Lemon Squeezy para su
 verificación — ese tratamiento se rige por la propia política de
 privacidad de Lemon Squeezy, no por este documento.
 
-**[PENDIENTE: revisar si conviene una Política de Privacidad
-separada más adelante, sobre todo si en el futuro se añade
-telemetría, cuentas de usuario, o cualquier otro dato — hoy no hace
-falta porque no existe nada de eso.]**
-
 ## 6. Sin garantía
 
 EL SOFTWARE SE PROPORCIONA "TAL CUAL", SIN GARANTÍAS DE NINGÚN TIPO,
@@ -111,12 +106,6 @@ no será responsable de daños indirectos, incidentales, especiales o
 consecuentes derivados del uso o la imposibilidad de uso del
 Software, incluyendo daños a hardware físico, pérdida de datos, o
 lucro cesante.
-
-**[PENDIENTE: revisar con criterio legal si esta cláusula, en
-concreto la exclusión de daños a hardware físico, es válida tal
-cual bajo la normativa de consumidores española/UE para una venta a
-particulares — las cláusulas de exención de responsabilidad frente a
-consumidores tienen límites legales que no puedo confirmarte yo.]**
 
 ## 8. Reembolsos
 
